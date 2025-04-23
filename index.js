@@ -412,7 +412,7 @@ document.getElementById("play").addEventListener("click", () => {
     } else {
       clearInterval(refesh);
     }
-  }, 1000);
+  }, 500);
 });
 
 // lang nghe su kien
